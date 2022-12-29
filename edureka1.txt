@@ -5,3 +5,5 @@ Adding a new line
 adding a new line in rebase branch
 
 commit 5
+
+commit 6
